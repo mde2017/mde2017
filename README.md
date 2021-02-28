@@ -18,20 +18,14 @@
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on IoT Projects for Smart Home
-Machine Learning Algorithms for Timeseries Forecasting
+- 🔭 I’m currently working on: IoT Projects for Smart Home, Machine Learning Algorithms for Timeseries Forecasting
 
+- 🌱 I’m currently learning: Data Science, IoT, MLOps
 
-- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on: IoT and Data Science Projects or Competitions
 
-- 👯 I’m looking to collaborate on 
+- 💬 Talk to me about: Python 🐍, IoT, Data Science 💻, 🥊🏋️‍♂️, 🎮, 🎸🤘
 
-- 💬 Talk to me about 
-
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -43,3 +37,5 @@ Machine Learning Algorithms for Timeseries Forecasting
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
