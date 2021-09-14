@@ -4,7 +4,7 @@
 
 <div size='20px'> 
 Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
+<h2> Connect with me </h2>
 <a href = 'https://www.github.com/mde2017'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>
 
