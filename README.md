@@ -1,5 +1,5 @@
 
-# Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello World
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mde2017.mde2017)
 
 <div size='20px'> 
