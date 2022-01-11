@@ -20,6 +20,9 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 <img width ='40px' align='left' src ='https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cassandra.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg'>
+<img width ='22px' align='left' src ='https://bigdataboutique.co.il/images/courses/graph-data-modelling-with-neo4j.jpg'>
+<img width ='22px' align='left' src ='https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974'>
+
 
 <br/>
 <br/>
@@ -28,11 +31,9 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 
 - 🔭 I’m currently working on: IoT Projects for Smart Home, Machine Learning Algorithms for Timeseries Forecasting
 
-- 🌱 I’m currently learning: Data Science, IoT, MLOps, Golang
+- 🌱 I’m currently learning: MLOps, Golang, Graph Databases
 
 - 👯 I’m looking to collaborate on: IoT and Data Science Projects or Competitions
-
-- 💬 Talk to me about: Python 🐍, IoT, Data Science 💻, 🥊🏋️‍♂️, 🎮, 🎸🤘
 
 
 ## My GitHub Stats 📊
@@ -40,6 +41,7 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mde2017&count_private=true&show_icons=true&theme=radical" />
 </a>
 
+<br/>
 <br/>
 
 <a href="https://github.com/anuraghazra/convoychat">
