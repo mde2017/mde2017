@@ -4,10 +4,9 @@
 
 <div size='20px'> 
 Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
-<h2> Connect with me </h2>
-<a href = 'https://www.github.com/mde2017'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>
 
+<br/>
 <br/>
 
 <h2> Skills </h2>
@@ -22,6 +21,7 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cassandra.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kafka.svg'>
 
+<br/>
 <br/>
 
 <h2> About Me</h2>
