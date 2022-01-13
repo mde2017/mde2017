@@ -29,11 +29,11 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on: IoT Projects for Smart Home, Machine Learning Algorithms for Timeseries Forecasting
+- I’m currently working on: IoT Projects for Smart Home, Machine Learning Algorithms for Timeseries Forecasting
 
-- 🌱 I’m currently learning: MLOps, Golang, Graph Databases
+- I’m currently learning: MLOps, Golang, Graph Databases
 
-- 👯 I’m looking to collaborate on: IoT and Data Science Projects or Competitions
+- I’m looking to collaborate on: IoT and Data Science Projects or Competitions
 
 
 ## My GitHub Stats 📊
