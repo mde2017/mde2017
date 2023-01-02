@@ -31,7 +31,7 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 
 - I’m currently working on: IoT Projects for Smart Home, Machine Learning Algorithms for Timeseries Forecasting
 
-- I’m currently learning: MLOps, Golang, Graph Databases
+- I’m currently learning: AngularJS, Online Machine Learning
 
 - I’m looking to collaborate on: IoT and Data Science Projects or Competitions
 
