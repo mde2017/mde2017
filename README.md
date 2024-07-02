@@ -1,11 +1,4 @@
 
-# Hello World
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mde2017.mde2017)
-
-<div size='20px'> 
-Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
-</div>
-
 <br/>
 <br/>
 
@@ -26,14 +19,6 @@ Hi! My name is Michael. Thank You for taking the time to view my GitHub Profile
 
 <br/>
 <br/>
-
-<h2> About Me</h2>
-
-- I’m currently working on: IoT Projects for Smart Home, Machine Learning Algorithms for Timeseries Forecasting
-
-- I’m currently learning: AngularJS, Online Machine Learning
-
-- I’m looking to collaborate on: IoT and Data Science Projects or Competitions
 
 
 ## My GitHub Stats 📊
